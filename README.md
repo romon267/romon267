@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @romon267
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Typescript, Nestjs and Nextjs with react!
-- 💞️ I’m looking to collaborate on interesting web projects!
+- 👀 I’m interested in blockchain development
 - 📫 How to reach me: romon267@gmail.com
 
 <!---
